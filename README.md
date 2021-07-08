@@ -1,8 +1,18 @@
 **Languages and Tools:**  
 
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a></code>
-
-
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/c.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/c.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/html5.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/html5.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/css-3.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/css-3.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/bootstrap.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/bootstrap.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/wordpress.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/wordpress.png" style="max-width:100%;"></a></code>
+  
+  
+**Learning:**  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/javascript.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/javascript.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/java.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/java.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/vue-js.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/vue-js.png" style="max-width:100%;"></a></code>
+  
+  
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/fabioo-junioor)](https://github.com/fabioo-junioor)
  
 <a href="https://github.com/anuraghazra/convoychat">
