@@ -1,4 +1,4 @@
-## Welcome to my profile!
+# Welcome to my profile!
 #### - Student of Information Systems - UFSM and future professional Front-end.
 #### - Passionate about coffee.  
 
