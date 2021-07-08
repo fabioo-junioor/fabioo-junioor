@@ -1,3 +1,9 @@
+## Welcome to my profile!
+- Student of Information Systems - UFSM and future professional Front-end.
+- Passionate about coffee.  
+
+<a href="https://www.instagram.com/fabioo-junioor/" rel="nofollow"><img src="https://camo.githubusercontent.com/1e5af392258ffe5081bf0018faf5b9f947803a49c13ae2fa941af4fec8b8eda2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3861336162393f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6361726f6c616c6d656964616d2f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/fabioo-junioor/" style="max-width:100%;"></a></p>
+
 **Languages and Tools:**  
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/c.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/c.png" style="max-width:100%;"></a></code>
@@ -7,7 +13,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/wordpress.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/wordpress.png" style="max-width:100%;"></a></code>
   
   
-**Learning:**  
+**Learning new Languages and Tools:**  
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/javascript.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/javascript.png" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/java.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/java.png" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/vue-js.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/vue-js.png" style="max-width:100%;"></a></code>
