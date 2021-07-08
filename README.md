@@ -1,3 +1,8 @@
+**Languages and Tools:**  
+
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a></code>
+
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/fabioo-junioor)](https://github.com/fabioo-junioor)
  
 <a href="https://github.com/anuraghazra/convoychat">
