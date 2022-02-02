@@ -1,5 +1,5 @@
 # Welcome to my profile!
-### - Student of Information Systems - UFSM.  
+### º Student of Information Systems - UFSM.  
 ### - Web Developer Front End.  
 ### - Project Manager.
 ### - Passionate about coffee. 
