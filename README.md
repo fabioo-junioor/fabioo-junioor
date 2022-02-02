@@ -1,4 +1,4 @@
-## Welcome to my profile!
+# Welcome to my profile!
 #### ° Student of Information Systems - UFSM.  
 #### ° Web Developer Front End.  
 #### ° Project Manager.
