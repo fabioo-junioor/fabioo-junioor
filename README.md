@@ -24,8 +24,6 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/java.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/java.png" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/vue-js.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/vue-js.png" style="max-width:100%;"></a></code>
   
-  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/fabioo-junioor)](https://github.com/fabioo-junioor)
  
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=fabioo-junioor&show_icons=true&theme=gotham" />
