@@ -23,6 +23,7 @@
   
 ### Learning new Languages and Tools:  
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/laravel.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/laravel.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/primevue.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/primevue.png" style="max-width:100%;"></a></code>
 
   
  
