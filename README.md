@@ -1,6 +1,6 @@
-# Welcome to my profile!
-#### ° Information Systems - UFSM.  
-#### ° Web Developer Front End.  
+## Welcome to my profile!
+#### My name is Fábio Júnior  
+#### Professional in the area of web development, specialized in html, css, javascript and vuejs.
 
 ### Languages and Tools:  
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/c.png"><img height="30" src="https://raw.githubusercontent.com/fabioo-junioor/fabioo-junioor/main/languages-tools/c.png" style="max-width:100%;"></a></code>
