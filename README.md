@@ -1,5 +1,5 @@
 ## Hello, my name is Fábio!
-##### Professional in the area of web development, specialized in html, css, javascript and vuejs. Proactive and results-oriented, I seek to contribute with my experience in front-end web development.
+#### Professional in the area of web development, specialized in html, css, javascript and vuejs. Proactive and results-oriented, I seek to contribute with my experience in front-end web development.
   
 <a href="https://fabiojuniordev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-8A2BE2?style=for-the-badge&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/fabioo.junioor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
