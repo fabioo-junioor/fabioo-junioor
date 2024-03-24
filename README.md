@@ -1,5 +1,4 @@
-## Welcome to my profile!
-#### My name is Fábio Júnior  
+### Hello, my name is Fábio!
 #### Professional in the area of web development, specialized in html, css, javascript and vuejs.
 
 ### Languages and Tools:  
