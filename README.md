@@ -1,6 +1,6 @@
 ## Fábio Júnior!
 
-- Desenvolvedor web frontend!
+- Desenvolvedor Full Stack!
 - Técnico em Contabilidade pela Instituição Federal Sul-Riograndense (2015)!
 - Técnico em Informática para Internet pelo Colégio Técnico Industrial de Santa Maria (2016)!
 - Bacharelado em Sistemas de Informação pela Universidade Federal de Santa Maria (2023)!
